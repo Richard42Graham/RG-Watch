@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=Designator Member=R3
+Removed Member From Class: ClassName=Designator Member=R4
+Removed Member From Class: ClassName=Designator Member=R6
+Removed Member From Class: ClassName=Designator Member=R34
+Removed Member From Class: ClassName=Designator Member=U6
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=NetC23_2 Pin=U3-1
+Added Pin To Net: NetName=NetC23_2 Pin=Y2-2
+Added Net: Name=NetC23_2

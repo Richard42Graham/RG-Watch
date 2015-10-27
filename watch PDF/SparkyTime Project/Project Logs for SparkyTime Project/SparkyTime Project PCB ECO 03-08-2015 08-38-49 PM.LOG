@@ -1,0 +1,8 @@
+Added Component: Designator=U8(DSE)
+Added Pin To Net: NetName=NetU8_2 Pin=U8-2
+Added Pin To Net: NetName=NetU8_3 Pin=U8-3
+Added Pin To Net: NetName=NetR27_1 Pin=U8-4
+Added Pin To Net: NetName=NetC16_2 Pin=U8-5
+Added Pin To Net: NetName=NetC16_1 Pin=U8-6
+Added Member To Class: ClassName=V stuff Member=Component U8 bq29700
+Change Room Name: Old Name=Designator_1 New Name=Designator

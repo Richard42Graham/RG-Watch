@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=Designator Member=C0
+Removed Member From Class: ClassName=Designator Member=C1
+Removed Member From Class: ClassName=Designator Member=C2
+Removed Member From Class: ClassName=Designator Member=C3
+Removed Member From Class: ClassName=Designator Member=C4
+Removed Member From Class: ClassName=Designator Member=P1
+Removed Member From Class: ClassName=Designator Member=P12
+Removed Member From Class: ClassName=Designator Member=R12
+Removed Member From Class: ClassName=Designator Member=R13
+Removed Member From Class: ClassName=Designator Member=R14
+Removed Member From Class: ClassName=Designator Member=U1
+Removed Member From Class: ClassName=Designator Member=Y1
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R7 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R9 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R10 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R11 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R12 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R13 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R14 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R17 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R19 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R20 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R21 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R24 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R25 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R26 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R27 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R28 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R32 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R33 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R34 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R37 Old Footprint=J1-0603 New Footprint=0402
+Change Component Footprint: Designator=R38 Old Footprint=J1-0603 New Footprint=0402
